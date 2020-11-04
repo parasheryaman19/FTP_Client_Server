@@ -1,0 +1,9 @@
+-rwxr-xr-x 1 yaman yaman 43912 dic 19 09:03 ftpserver
+-rw-r--r-- 1 yaman yaman  7746 dic 19 11:08 ftpserver.c
+-rw-r--r-- 1 yaman yaman  1768 dic 19 11:10 ftpserver.h
+-rw-r--r-- 1 yaman yaman 50408 dic 19 09:03 ftpserver.o
+-rw-r--r-- 1 yaman yaman   317 dic 18 22:26 makefile
+-rw-r--r-- 1 yaman yaman   295 dic 14 12:40 server.txt
+-rw-r--r-- 1 yaman yaman   436 dic 19 09:07 tmp2.txt
+-rw-r--r-- 1 yaman yaman   436 dic 19 09:07 tmp3.txt
+-rw-r--r-- 1 yaman yaman     0 dic 19 11:16 tmp.txt
