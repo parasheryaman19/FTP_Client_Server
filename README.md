@@ -2,10 +2,12 @@
 Implementation of FTP Client Server in C. Includes custom client and server programs that provide functionality to authenticate a user, list remote files, and retrieve remote files
 
 To compile and link ftserver:
+
 $ cd server/
 $ make
 
 To compile and link ftclient:
+
 $ cd client/
 $ make
 
