@@ -28,7 +28,7 @@ Available commands:
                          quit            - end the ftp session
 	
 Logging In:
-Name: anonymous , 
-Password: [empty]
+Username: user , 
+Password: pass
 
 Refer video for more clarification.
