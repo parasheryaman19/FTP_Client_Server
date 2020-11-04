@@ -18,17 +18,17 @@ To run ftclient:
                           $ client/ftclient HOSTNAME PORTNO
 
 Commands:
-                          list
-                          get <filename>
+                          list,
+                          get <filename>,
                           quit
 	
 Available commands:
-                         list            - retrieve list of files in the current remote directory
-                         get <filename>  - get the specified file
+                         list            - retrieve list of files in the current remote directory,
+                         get <filename>  - get the specified file,
                          quit            - end the ftp session
 	
 Logging In:
-Name: anonymous
+Name: anonymous , 
 Password: [empty]
 
 Refer video for more clarification.
